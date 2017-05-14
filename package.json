@@ -1,0 +1,27 @@
+{
+  "name": "pirate-speak-api",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "morgan": "^1.8.1",
+    "pirate-speak": "^1.0.1",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://"
+  },
+  "author": "Wesley Bliss <wesley.bliss@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://"
+  },
+  "homepage": ""
+}
